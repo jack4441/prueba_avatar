@@ -1,0 +1,23 @@
+# Carpeta node_modules creada por npm
+/node_modules
+
+# Carpeta build creada por create-react-app
+/build
+
+# Carpeta .env creada por dotenv
+.env
+
+# Archivo de registro npm-debug.log
+npm-debug.log
+
+# Carpeta .vscode creada por Visual Studio Code
+.vscode
+
+# Carpeta .idea creada por IntelliJ IDEA
+.idea
+
+# Archivos de configuración de sistema (e.g., .DS_Store en macOS)
+.DS_Store
+
+# Archivos de caché de sistemas operativos (e.g., Thumbs.db en Windows)
+Thumbs.db
